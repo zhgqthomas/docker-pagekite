@@ -1,5 +1,5 @@
-FROM python:2.7
-MAINTAINER Filip Wieladek <wattos@gmail.com>
+FROM python:2.7-alpine
+MAINTAINER Thomas Zhang <zhgqthomas@gmail.com>
 
 # Install pagekite
 ENV PAGE_KITE_BINARY /usr/bin/pagekite.py
