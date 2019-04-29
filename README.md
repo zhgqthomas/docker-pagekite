@@ -8,7 +8,7 @@ Register your kite at pagekite.net.
 
 Run the docker container :
 
-```docker run wattos/pagekite --defaults --service_on=<protocol>:<kite-name>:<machine-name>:<port>:<kite_secret>```
+```docker run zhgqthomas/docker-pagekite --defaults --service_on=<protocol>:<kite-name>:<machine-name>:<port>:<kite_secret>```
 
 ```
 where:
